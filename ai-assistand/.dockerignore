@@ -1,0 +1,14 @@
+**/.git
+**/.vs
+**/bin
+**/obj
+**/node_modules
+**/dist
+**/.env
+**/.env.*
+!**/.env.example
+**/*.user
+**/*.suo
+**/agent-transcripts
+**/.cursor
+**/personal_ai_assistant_mvp_plan.md

@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+.env
+**/appsettings.*.local.json
+web/personal-assistant-web/node_modules/
+web/personal-assistant-web/dist/
+.idea/
+*.log
